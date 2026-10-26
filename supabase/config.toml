@@ -1,0 +1,4 @@
+project_id = "dmu-academic-hub"
+
+[auth.email]
+enable_confirmations = false
